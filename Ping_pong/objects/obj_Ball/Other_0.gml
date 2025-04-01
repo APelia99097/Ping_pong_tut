@@ -1,6 +1,6 @@
 // stop the ball
 
-motion_Set(0,0);
+motion_set(0,0);
 
 // reset position
 
